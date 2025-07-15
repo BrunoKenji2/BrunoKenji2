@@ -22,15 +22,6 @@ Sou um estudante de Engenharia da Computação na UNIFESP, apaixonado por usar a
 </a>
 </p>
 
-🚀 Meus Principais Projetos
-(Aqui você pode adicionar links para seus melhores repositórios. Exemplo abaixo)
-
-[Nome do Projeto 1 - Ex: Plataforma de Vídeos]: Breve descrição do que o projeto faz e as tecnologias usadas.
-
-[Nome do Projeto 2 - Ex: Compilador C-]: Breve descrição do que o projeto faz e as tecnologias usadas.
-
-[Nome do Projeto 3 - Ex: EcoWave IoT]: Breve descrição do que o projeto faz e as tecnologias usadas.
-
 📫 Como me encontrar
 <p align="left">
 <a href="https://www.linkedin.com/in/brunokenji46/" target="_blank">
@@ -38,12 +29,5 @@ Sou um estudante de Engenharia da Computação na UNIFESP, apaixonado por usar a
 </a>
 <a href="mailto:bruno.kenji21@gmail.com" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bruno.kenji21@gmail.com" height="30" width="40" />
-</a>
-</p>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/brunokenji46/" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno Kenji Sato" height="30" width="40" />
-</a>
-<a href="mailto:bruno.kenji21@gmail.com" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bruno.kenji21@gmail.com" height="30" width="40" />
 </a>
 </p>
