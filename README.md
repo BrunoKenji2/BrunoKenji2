@@ -1,7 +1,7 @@
 👋 Olá, eu sou o Bruno Kenji Sato!
 <p align="left">
-<img alt="Top Langs" height="150px" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBrunoKenji2%26layout%3Dcompact%26show_icons%3Dtrue%26theme%3Ddracula" />
-<img alt="Bruno's GitHub stats" height="150px" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBrunoKenji2%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKenji2&layout=compact&show_icons=true&theme=dracula" />
+<img alt="Bruno's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=BrunoKenji2&show_icons=true&theme=dracula&rank_icon=github" />
 </p>
 
 👨‍💻 Sobre Mim
@@ -18,7 +18,7 @@ Sou um estudante de Engenharia da Computação na UNIFESP, apaixonado por usar a
 🛠️ Tecnologias e Ferramentas
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs,dotnet,react,vue,js,html,css,python,c,cpp,postgres,mysql,git,figma,azure%26perline%3D5" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,vue,js,html,css,python,c,cpp,postgres,mysql,git,figma,azure&perline=5" />
 </a>
 </p>
 
@@ -33,6 +33,13 @@ Sou um estudante de Engenharia da Computação na UNIFESP, apaixonado por usar a
 
 📫 Como me encontrar
 <p align="left">
+<a href="https://www.linkedin.com/in/brunokenji46/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno Kenji Sato" height="30" width="40" />
+</a>
+<a href="mailto:bruno.kenji21@gmail.com" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bruno.kenji21@gmail.com" height="30" width="40" />
+</a>
+</p>
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/brunokenji46/" target="_blank">
 <img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno Kenji Sato" height="30" width="40" />
 </a>
