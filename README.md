@@ -1,4 +1,42 @@
-## Olá, Meu nome é Bruno
+👋 Olá, eu sou o Bruno Kenji Sato!
+<p align="left">
+<img alt="Top Langs" height="150px" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBrunoKenji2%26layout%3Dcompact%26show_icons%3Dtrue%26theme%3Ddracula" />
+<img alt="Bruno's GitHub stats" height="150px" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBrunoKenji2%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub" />
+</p>
 
-- 🌱 Hoje estou estudando Engenharia da Computação na UNIFESP-SJC e estou estágiando na Subiter como desenvolvedor de software, implementando e realizando designs de interfaces
-- 📫 email: bruno.kenji21@gmail.com
+👨‍💻 Sobre Mim
+Sou um estudante de Engenharia da Computação na UNIFESP, apaixonado por usar a tecnologia para resolver problemas complexos de forma inteligente e eficaz. Minha maneira de trabalhar é definida por uma mentalidade simples: primeiro, entender a fundo a causa de um problema; segundo, quebrá-lo em partes gerenciáveis; e por fim, focar na construção da solução que gera mais valor.
+
+🔭 Atualmente estou aprimorando minhas habilidades em React e .NET.
+
+🌱 Tenho um grande interesse em otimização de processos, desenvolvimento full-stack e sistemas IoT.
+
+💡 Minha experiência vai desde a otimização de fluxos de trabalho em ações voluntárias até o desenvolvimento de projetos de software completos, como a criação de uma plataforma de videoaulas com API em ASP.NET, banco de dados SQL e front-end moderno.
+
+💬 Fique à vontade para entrar em contato para falar sobre tecnologia, projetos ou oportunidades!
+
+🛠️ Tecnologias e Ferramentas
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcs,dotnet,react,vue,js,html,css,python,c,cpp,postgres,mysql,git,figma,azure%26perline%3D5" />
+</a>
+</p>
+
+🚀 Meus Principais Projetos
+(Aqui você pode adicionar links para seus melhores repositórios. Exemplo abaixo)
+
+[Nome do Projeto 1 - Ex: Plataforma de Vídeos]: Breve descrição do que o projeto faz e as tecnologias usadas.
+
+[Nome do Projeto 2 - Ex: Compilador C-]: Breve descrição do que o projeto faz e as tecnologias usadas.
+
+[Nome do Projeto 3 - Ex: EcoWave IoT]: Breve descrição do que o projeto faz e as tecnologias usadas.
+
+📫 Como me encontrar
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/brunokenji46/" target="_blank">
+<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bruno Kenji Sato" height="30" width="40" />
+</a>
+<a href="mailto:bruno.kenji21@gmail.com" target="_blank">
+<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bruno.kenji21@gmail.com" height="30" width="40" />
+</a>
+</p>
